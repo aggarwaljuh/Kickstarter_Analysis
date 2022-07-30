@@ -38,7 +38,8 @@ A major conclusion that one can see in this analysis is that there were no succe
 
 - What are some limitations of this dataset?
 
-Some limitation of the dataset is....
+Some limitation of the dataset is we can not see the amount that indivual backers gave therefor we can not identify if there was a backer who was an outlier which may have contributed to the success of the kickstarter. 
+
 - What are some other possible tables and/or graphs that we could create?
 
-Another table that we can make is Outcomes based on......
+Another table that we can make is Outcomes based on staff picks or outcomes based off of spotlight status. We can also look at outcomes based off of number of backers or the average amount of money backers contributed.
