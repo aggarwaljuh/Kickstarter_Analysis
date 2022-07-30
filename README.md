@@ -11,7 +11,7 @@ The purpose of this project is to identify what factors contribute to curtain ou
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-
+![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 A major difficulty encountered was correctly using the "countifs" statement. Initally when doing this I did not lock down the "F:F" statement in "Kickstarter!"$"F:"$" F" statements (for all needed factors). Therefor when dragging the row over it would lead to an error as "Kickstarter!G:G" did not contain "failed" or "canceled". To fix this I first made sure that all factors where spelt correctly and then checked that my formulas were correct. After doing so I realized that the different coloumns meant that the values were not able to be counted properly. After the $ signs were added to lock in the "F:F" values the "countifs" worked correctly.
 
