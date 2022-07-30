@@ -10,9 +10,9 @@ The purpose of this project is to identify what factors contribute to curtain ou
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
-From the class work I created a "Years" coloumn from the "Date Created Conversion" coloumn. The "Date Created Conversion" Colomn was made by convering the Unix timestamps to a readable format. From then a new pivor table was made and named "Theater Outcomes by Launch Date".
+From the class work I created a "Years" coloumn from the "Date Created Conversion" coloumn. The "Date Created Conversion" Colomn was made by convering the Unix timestamps to a readable format. From then a new pivot table was made and named "Theater Outcomes by Launch Date". The fillters were "parent catagory" and "years". The coloumns were Outcomes and filtered as "successful", "failed", and "cancelled" (and then sorted to be in declining order). The rows were "date created conversion", and the values were count of outcomes. The table was filtered by parent catagory theater. Finally a life graph was maid to visualize what months had the highest and lowest rates of outcomes. 
 
-![Theater_Outcomes_vs_Launchtable.png](Theater_Outcomes_vs_Launchtable.png)
+
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
