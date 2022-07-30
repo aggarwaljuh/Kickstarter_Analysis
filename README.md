@@ -4,7 +4,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this project is to identify what factors contribute to curtain outcomes of those in the kickstarter data set. 
+The purpose of this project is to identify what factors contribute to curtain outcomes of those in the kickstarter data set. By looking at launch dates and the outcomes we can try to predict when would be the best time to launch a kickstarter for success. We can also see what amount of money asked for had the best chance of success.
 
 ## Analysis and Challenges
 
@@ -38,7 +38,7 @@ A major conclusion that one can see in this analysis is that there were no succe
 
 - What are some limitations of this dataset?
 
-Some limitation of the dataset is we can not see the amount that indivual backers gave therefor we can not identify if there was a backer who was an outlier which may have contributed to the success of the kickstarter. 
+A limitation of the dataset is we can not see the amount that individual backers gave therefor we can not identify if there was a backer who was an outlier which may have contributed to the success of the kickstarter. 
 
 - What are some other possible tables and/or graphs that we could create?
 
