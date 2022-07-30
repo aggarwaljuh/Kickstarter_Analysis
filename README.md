@@ -12,7 +12,7 @@ The purpose of this project is to identify what factors contribute to curtain ou
 ![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
 From the class work I created a "Years" coloumn from the "Date Created Conversion" coloumn. The "Date Created Conversion" Colomn was made by convering the Unix timestamps to a readable format. From then a new pivor table was made and named "Theater Outcomes by Launch Date".
 
-![Theater_Outcomes_vs_Launch_table.png](Theater_Outcomes_vs_Launch_table.png)
+![Theater_Outcomes_vs_Launchtable.png](Theater_Outcomes_vs_Launchtable.png)
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
